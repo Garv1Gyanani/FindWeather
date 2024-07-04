@@ -11,7 +11,8 @@ Find Weather is an Android application designed to provide accurate and up-to-da
 
 ## Screenshots
 
-*Include screenshots of the app here*
+![Find Weather](https://github.com/Garv1Gyanani/FindWeather/assets/130121347/c0aa6a59-72aa-403a-a4d3-7dde315ab12a)
+
 
 ## Installation
 
